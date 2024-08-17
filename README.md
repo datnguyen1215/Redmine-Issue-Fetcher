@@ -46,6 +46,10 @@ export REDMINE_API_KEY=abcdefgh12345678
 ./redmine-issues-fetcher https://redmine.example.com/
 ```
 
+## Readmap
+
+- [ ] Support .env file for storing other configuration.
+
 ## Disclaimer
 
 This tool disables TLS certificate verification, which might expose you to security risks. Ensure that you understand the implications and use it in controlled environments only.
